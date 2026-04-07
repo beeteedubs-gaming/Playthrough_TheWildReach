@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ToggleableOverlays.ModSettings_ToggleableOverlays">
+		<hideForbidden>True</hideForbidden>
+		<hideForbiddenBuildings>True</hideForbiddenBuildings>
+		<quickShowAltMode>False</quickShowAltMode>
+		<hideFuelGauge>True</hideFuelGauge>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VEF.VFEGlobalSettings">
+		<toggablePatch>
+			<keys>
+				<li>Makebattlefieldremaintsdeconstructable:</li>
+				<li>[Tech]Removetherequiredresearchschematics:</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</toggablePatch>
+		<disableCaching>False</disableCaching>
+		<hideRandomizeButtons>False</hideRandomizeButtons>
+		<weatherDamagesOptions>
+			<keys>
+				<li>RG_BoilingDrizzle</li>
+				<li>RG_BoilingRain</li>
+				<li>RG_BoilingFoggyRain</li>
+				<li>RG_BoilingRainyThunderstorm</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</weatherDamagesOptions>
+	</ModSettings>
+</SettingsBlock>

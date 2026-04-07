@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="QuestEditor_Library.CustomQuestFramework_ModSetting">
+		<showCQF>True</showCQF>
+	</ModSettings>
+</SettingsBlock>

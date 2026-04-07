@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PacksAreNotBelts.PacksAreNotBeltsSettings">
+		<nudistsIgnoreUtility>True</nudistsIgnoreUtility>
+		<utilityIgnoresDamage>True</utilityIgnoresDamage>
+		<useArtifactLayer>True</useArtifactLayer>
+		<useAmmoLayerBandolier>True</useAmmoLayerBandolier>
+		<useMechLayer>True</useMechLayer>
+		<useAmmoLayerAccessories>True</useAmmoLayerAccessories>
+	</ModSettings>
+</SettingsBlock>

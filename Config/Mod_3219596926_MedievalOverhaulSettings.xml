@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MedievalOverhaul.MedievalOverhaul_Settings">
+		<industrialJunk>True</industrialJunk>
+		<exostriderRemains>True</exostriderRemains>
+		<settingMode>
+			<keys />
+			<values />
+		</settingMode>
+		<lastSelectedTab>2</lastSelectedTab>
+		<refuelableTorch>True</refuelableTorch>
+		<boomalopeTar>True</boomalopeTar>
+		<experimental_patches>True</experimental_patches>
+	</ModSettings>
+</SettingsBlock>

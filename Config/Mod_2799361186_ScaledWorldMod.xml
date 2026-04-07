@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ScaledWorld.ScaledWorldSettings">
+		<questWeights>
+			<keys>
+				<li>DragonCaravanAmbushQuest</li>
+				<li>DragonEncounterEvent</li>
+				<li>DragonEncounterQuest</li>
+			</keys>
+			<values>
+				<li>1</li>
+				<li>10</li>
+				<li>10</li>
+			</values>
+		</questWeights>
+		<minMaxDaysForNewQuest>30~60</minMaxDaysForNewQuest>
+		<extraQuestDragonTameChance>1.5</extraQuestDragonTameChance>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DiplomaticMarriagePlus.Model.DMPModSettings">
+		<DMP_Settings_FactionConversionChancePerSocialSkill>0.0500000007</DMP_Settings_FactionConversionChancePerSocialSkill>
+	</ModSettings>
+</SettingsBlock>

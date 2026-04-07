@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RimTwins.RimTwinsSettings">
+		<OneMoreChance>0.150000006</OneMoreChance>
+	</ModSettings>
+</SettingsBlock>

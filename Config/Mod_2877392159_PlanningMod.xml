@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PlanningExtended.Settings.PlanningSettings">
+		<lastLoadedPlans>
+			<li>AM_FullMap</li>
+		</lastLoadedPlans>
+		<planDesignationSettings>
+			<keys>
+				<li>PlanWall</li>
+				<li>PlanFloors</li>
+				<li>PlanDoors</li>
+				<li>PlanObjects</li>
+			</keys>
+			<values>
+				<li>
+					<isVisible>False</isVisible>
+				</li>
+				<li>
+					<isVisible>False</isVisible>
+				</li>
+				<li>
+					<isVisible>False</isVisible>
+				</li>
+				<li>
+					<isVisible>False</isVisible>
+				</li>
+			</values>
+		</planDesignationSettings>
+	</ModSettings>
+</SettingsBlock>

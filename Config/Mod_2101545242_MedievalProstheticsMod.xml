@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="NASMedievalProsthetics.MedievalProstheticsSettings">
+		<artificialPartWorkCost>60000</artificialPartWorkCost>
+		<ambroisenPartWorkCost>300000</ambroisenPartWorkCost>
+	</ModSettings>
+</SettingsBlock>

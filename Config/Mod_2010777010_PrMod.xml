@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ProgressRenderer.PrModSettings">
+		<renderGameConditions>False</renderGameConditions>
+		<renderWeather>False</renderWeather>
+		<renderZones>False</renderZones>
+		<whichInterval>3</whichInterval>
+		<timeOfDay>10</timeOfDay>
+		<encodingFormat>UnityPNG</encodingFormat>
+		<pixelsPerCell>56</pixelsPerCell>
+		<exportPath>C:\Users\jjack\Desktop\Progress Render</exportPath>
+		<createSubdirs>True</createSubdirs>
+		<useMapNameInstead>True</useMapNameInstead>
+		<fileNamePattern>BothTmpCopy</fileNamePattern>
+		<migratedOutputImageSettings>True</migratedOutputImageSettings>
+		<migratedInterval>True</migratedInterval>
+	</ModSettings>
+</SettingsBlock>

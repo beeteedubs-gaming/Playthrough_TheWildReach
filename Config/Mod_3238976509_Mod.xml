@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SleepMeditation.ModSettings">
+		<VPE_ExperienceMultiplier>0</VPE_ExperienceMultiplier>
+	</ModSettings>
+</SettingsBlock>
