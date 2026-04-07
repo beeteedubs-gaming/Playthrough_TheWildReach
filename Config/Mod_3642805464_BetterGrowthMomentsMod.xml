@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BetterGrowthMoments.BetterGrowthMomentsSettings">
+		<traitChoices_0>1</traitChoices_0>
+		<traitGains_0>1</traitGains_0>
+		<traitChoices_1>2</traitChoices_1>
+		<traitGains_1>1</traitGains_1>
+		<traitChoices_2>3</traitChoices_2>
+		<traitGains_2>1</traitGains_2>
+		<traitChoices_3>4</traitChoices_3>
+		<traitGains_3>1</traitGains_3>
+		<passionChoices_4>1</passionChoices_4>
+		<passionGains_4>1</passionGains_4>
+		<traitChoices_4>4</traitChoices_4>
+		<traitGains_4>1</traitGains_4>
+		<passionChoices_5>2</passionChoices_5>
+		<passionGains_5>1</passionGains_5>
+		<traitChoices_5>4</traitChoices_5>
+		<traitGains_5>1</traitGains_5>
+		<passionChoices_6>3</passionChoices_6>
+		<passionGains_6>1</passionGains_6>
+		<traitChoices_6>4</traitChoices_6>
+		<traitGains_6>1</traitGains_6>
+		<passionChoices_7>4</passionChoices_7>
+		<passionGains_7>2</passionGains_7>
+		<traitChoices_7>4</traitChoices_7>
+		<traitGains_7>1</traitGains_7>
+		<passionChoices_8>6</passionChoices_8>
+		<passionGains_8>3</passionGains_8>
+		<traitChoices_8>6</traitChoices_8>
+		<traitGains_8>1</traitGains_8>
+	</ModSettings>
+</SettingsBlock>

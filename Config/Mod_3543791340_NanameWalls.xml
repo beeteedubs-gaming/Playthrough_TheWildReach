@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="NanameWalls.Settings">
+		<meshSettings>
+			<Sandbags>
+				<enabled>False</enabled>
+			</Sandbags>
+			<Barricade>
+				<enabled>True</enabled>
+			</Barricade>
+			<Wall />
+			<Fence>
+				<enabled>True</enabled>
+			</Fence>
+			<GravshipHull />
+			<VFEP_ShortWalls>
+				<enabled>False</enabled>
+			</VFEP_ShortWalls>
+			<VFEM2_Turret_WallMountedArbalest>
+				<enabled>True</enabled>
+			</VFEM2_Turret_WallMountedArbalest>
+			<VFEM2_Turret_WallMountedArquebus>
+				<enabled>True</enabled>
+			</VFEM2_Turret_WallMountedArquebus>
+			<VFEM2_ClothWall />
+			<VFEM2_TimberedWall />
+			<VFEM2_LowCastleWall />
+			<VFEArch_FineWall />
+			<VFEArch_LogWall />
+			<VFEArch_ChainlinkFence>
+				<enabled>True</enabled>
+			</VFEArch_ChainlinkFence>
+			<VFEArch_PicketFence>
+				<enabled>False</enabled>
+			</VFEArch_PicketFence>
+			<VFEArch_BrickFence>
+				<enabled>True</enabled>
+			</VFEArch_BrickFence>
+			<VFEArch_InvisibleFence>
+				<enabled>False</enabled>
+			</VFEArch_InvisibleFence>
+			<VFEArch_LowFence>
+				<enabled>True</enabled>
+			</VFEArch_LowFence>
+			<VFEArch_HedgeWall />
+			<VFEArch_ArmoredWall />
+			<DankPyon_LogWall />
+			<DankPyon_TentWall />
+			<DankPyon_Palisade>
+				<enabled>False</enabled>
+			</DankPyon_Palisade>
+			<DankPyon_EmbPalisade>
+				<enabled>False</enabled>
+			</DankPyon_EmbPalisade>
+			<DankPyon_TudorWall />
+			<DankPyon_CastleWall />
+			<DankPyon_CastleWallEmbrasures />
+			<DankPyon_CavalrySpike />
+			<DankPyon_Trench>
+				<enabled>True</enabled>
+			</DankPyon_Trench>
+			<DankPyon_RTrench>
+				<enabled>True</enabled>
+			</DankPyon_RTrench>
+			<VR_SteamPipe>
+				<enabled>False</enabled>
+			</VR_SteamPipe>
+			<VR_UndergroundSteamPipe>
+				<enabled>False</enabled>
+			</VR_UndergroundSteamPipe>
+			<VFES_Complex_GraserCannon>
+				<enabled>False</enabled>
+			</VFES_Complex_GraserCannon>
+			<VFES_Complex_HeavyIncineratorComplex>
+				<enabled>False</enabled>
+			</VFES_Complex_HeavyIncineratorComplex>
+			<VFES_BarbedWire>
+				<enabled>False</enabled>
+			</VFES_BarbedWire>
+			<VFES_Dugout>
+				<enabled>False</enabled>
+			</VFES_Dugout>
+			<VFES_Trench>
+				<enabled>False</enabled>
+			</VFES_Trench>
+			<VFES_Platform>
+				<enabled>False</enabled>
+			</VFES_Platform>
+			<VFES_Complex_Hmg>
+				<enabled>False</enabled>
+			</VFES_Complex_Hmg>
+			<VFES_Complex_Minigun>
+				<enabled>False</enabled>
+			</VFES_Complex_Minigun>
+			<VFES_Complex_Charge>
+				<enabled>False</enabled>
+			</VFES_Complex_Charge>
+			<VFE_PlanterBox_Tilable>
+				<enabled>False</enabled>
+			</VFE_PlanterBox_Tilable>
+			<VFE_Hydroponics_Tilable>
+				<enabled>False</enabled>
+			</VFE_Hydroponics_Tilable>
+			<VFE_Ecosystem_Tilable>
+				<enabled>False</enabled>
+			</VFE_Ecosystem_Tilable>
+			<VFE_Wallpaper />
+			<Seat_Bench>
+				<enabled>False</enabled>
+			</Seat_Bench>
+			<Table_Counter>
+				<enabled>True</enabled>
+			</Table_Counter>
+			<VFE_LongPlantPot>
+				<enabled>True</enabled>
+			</VFE_LongPlantPot>
+			<Outland_TentWall />
+			<Outland_TimberFrameWall />
+			<AM_AncientFence>
+				<enabled>False</enabled>
+			</AM_AncientFence>
+			<RB_SmoothGravshipHull />
+			<RB_GravshipWindowHull />
+			<RB_GravshipPanoramaHull />
+			<RB_OverwallArmor>
+				<enabled>False</enabled>
+			</RB_OverwallArmor>
+			<RB_RusticWall />
+			<RB_OrnateWall />
+			<RB_ClerestoryWall>
+				<enabled>False</enabled>
+			</RB_ClerestoryWall>
+			<RB_ReinforcedClerestoryWall />
+			<RB_GlassWall>
+				<enabled>False</enabled>
+			</RB_GlassWall>
+			<RB_ReinforcedGlassWall />
+			<RB_CellWall>
+				<enabled>False</enabled>
+			</RB_CellWall>
+			<RB_BarriersWall>
+				<enabled>False</enabled>
+			</RB_BarriersWall>
+			<Hyper_SmoothWall />
+			<Vin_Embrasure>
+				<enabled>False</enabled>
+			</Vin_Embrasure>
+			<Oracle_Wallcap>
+				<enabled>False</enabled>
+			</Oracle_Wallcap>
+			<oracle_TireWall />
+			<AP_Hedge_Anima>
+				<enabled>False</enabled>
+			</AP_Hedge_Anima>
+			<AP_Hedge_Gau>
+				<enabled>False</enabled>
+			</AP_Hedge_Gau>
+			<AP_Hedge>
+				<enabled>False</enabled>
+			</AP_Hedge>
+			<AP_Hedge_Flowery>
+				<enabled>False</enabled>
+			</AP_Hedge_Flowery>
+			<AP_Hedge_FloweryTwo>
+				<enabled>False</enabled>
+			</AP_Hedge_FloweryTwo>
+			<AP_Hedge_Ocular>
+				<enabled>False</enabled>
+			</AP_Hedge_Ocular>
+			<AP_LowHedge>
+				<enabled>False</enabled>
+			</AP_LowHedge>
+			<DV_BasicClayWall />
+			<DV_CobbClayWall />
+			<DV_CarvedClayWall />
+			<Stone_Cliff_Right>
+				<enabled>False</enabled>
+			</Stone_Cliff_Right>
+			<Smooth_Cliff_Right>
+				<enabled>False</enabled>
+			</Smooth_Cliff_Right>
+			<Stone_Cliff_Left>
+				<enabled>False</enabled>
+			</Stone_Cliff_Left>
+			<Smooth_Cliff_Left>
+				<enabled>False</enabled>
+			</Smooth_Cliff_Left>
+			<Stone_CliffTop_Right>
+				<enabled>False</enabled>
+			</Stone_CliffTop_Right>
+			<SmoothTop_Cliff_Right>
+				<enabled>False</enabled>
+			</SmoothTop_Cliff_Right>
+			<Stone_CliffTop_Left>
+				<enabled>False</enabled>
+			</Stone_CliffTop_Left>
+			<SmoothTop_Cliff_Left>
+				<enabled>False</enabled>
+			</SmoothTop_Cliff_Left>
+			<Brick_Cliff_Right>
+				<enabled>False</enabled>
+			</Brick_Cliff_Right>
+			<Brick_Cliff_Left>
+				<enabled>False</enabled>
+			</Brick_Cliff_Left>
+			<Brick_CliffTop_Right>
+				<enabled>False</enabled>
+			</Brick_CliffTop_Right>
+			<Brick_CliffTop_Left>
+				<enabled>False</enabled>
+			</Brick_CliffTop_Left>
+			<Dirt_Hill_Right>
+				<enabled>False</enabled>
+			</Dirt_Hill_Right>
+			<Dirt_Hill_Left>
+				<enabled>False</enabled>
+			</Dirt_Hill_Left>
+			<Dirt_HillTop_Right>
+				<enabled>False</enabled>
+			</Dirt_HillTop_Right>
+			<Dirt_HillTop_Left>
+				<enabled>False</enabled>
+			</Dirt_HillTop_Left>
+			<Metal_Cliff_Right>
+				<enabled>False</enabled>
+			</Metal_Cliff_Right>
+			<Metal_Cliff_Left>
+				<enabled>False</enabled>
+			</Metal_Cliff_Left>
+			<Metal_CliffTop_Right>
+				<enabled>False</enabled>
+			</Metal_CliffTop_Right>
+			<Metal_CliffTop_Left>
+				<enabled>False</enabled>
+			</Metal_CliffTop_Left>
+			<DA_OssuaryWall />
+			<Gomi_Handrail>
+				<enabled>False</enabled>
+			</Gomi_Handrail>
+			<Gomi_HighWall>
+				<enabled>False</enabled>
+			</Gomi_HighWall>
+			<Gomi_FloorFence>
+				<enabled>False</enabled>
+			</Gomi_FloorFence>
+			<MUS_Fishingstyle_wall />
+			<VFEM2_CobblestoneWall_ChunkSandstone />
+			<VFEM2_CobblestoneWall_ChunkGranite />
+			<VFEM2_CobblestoneWall_ChunkLimestone />
+			<VFEM2_CobblestoneWall_ChunkSlate />
+			<VFEM2_CobblestoneWall_ChunkMarble />
+			<VFEM2_CobblestoneWall_ChunkVacstone />
+			<VFEM2_CobblestoneWall_DankPyon_ChunkClay />
+		</meshSettings>
+	</ModSettings>
+</SettingsBlock>

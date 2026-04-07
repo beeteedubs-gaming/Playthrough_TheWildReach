@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ImprovedWorkbenches.ModSettings_ImprovedWorkbenches">
+		<expandBillsTab>False</expandBillsTab>
+		<dropOnFloorByDefault>True</dropOnFloorByDefault>
+		<defaultRadius>999</defaultRadius>
+	</ModSettings>
+</SettingsBlock>
